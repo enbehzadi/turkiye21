@@ -1,0 +1,35 @@
+apply plugin: 'com.android.library'
+apply plugin: 'kotlin-android'
+apply plugin: 'maven-publish'
+apply plugin: 'com.jfrog.bintray'
+
+apply from: "$rootDir/jcenter/info.gradle"
+
+
+//  to upload to bintray use ./gradlew build bintrayUpload
+android {
+    compileSdkVersion versions.compileSdk
+    buildToolsVersion versions.buildTools
+
+    defaultConfig {
+        minSdkVersion versions.minSdk
+        targetSdkVersion versions.targetSdk
+    }
+
+    buildTypes {
+        debug {
+            debuggable = true
+        }
+        release {
+            debuggable = false
+        }
+    }
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:${versions.kotlin}"
+    implementation 'androidx.annotation:annotation:1.1.0'
+}
+
+apply from: "$rootDir/jcenter/maven-install.gradle"
+apply from: "$rootDir/jcenter/bintray.gradle"

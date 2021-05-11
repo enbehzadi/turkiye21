@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AestheticDialogs</string>
+    <string name="error">error</string>
+    <string name="success">success</string>
+    <string name="buy">Buy</string>
+    <string name="title_buy">Buy Product</string>
+
+</resources>

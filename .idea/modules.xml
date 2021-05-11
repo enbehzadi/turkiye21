@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/turkiye.iml" filepath="$PROJECT_DIR$/turkiye.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MaterialTabsModule/turkiye.MaterialTabsModule.iml" filepath="$PROJECT_DIR$/.idea/modules/MaterialTabsModule/turkiye.MaterialTabsModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aestheticdialogs/turkiye.aestheticdialogs.iml" filepath="$PROJECT_DIR$/.idea/modules/aestheticdialogs/turkiye.aestheticdialogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/turkiye.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/turkiye.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bubblenavigation/turkiye.bubblenavigation.iml" filepath="$PROJECT_DIR$/.idea/modules/bubblenavigation/turkiye.bubblenavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/turkiye.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/turkiye.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liquid-swipe/turkiye.liquid-swipe.iml" filepath="$PROJECT_DIR$/.idea/modules/liquid-swipe/turkiye.liquid-swipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdfViewer/turkiye.pdfViewer.iml" filepath="$PROJECT_DIR$/.idea/modules/pdfViewer/turkiye.pdfViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdfview-library/turkiye.pdfview-library.iml" filepath="$PROJECT_DIR$/.idea/modules/pdfview-library/turkiye.pdfview-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/purchase/turkiye.purchase.iml" filepath="$PROJECT_DIR$/.idea/modules/purchase/turkiye.purchase.iml" />
+    </modules>
+  </component>
+</project>

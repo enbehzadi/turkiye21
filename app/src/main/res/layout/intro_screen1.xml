@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        android:orientation="vertical"
+    android:weightSum="14"
+    android:background="@color/red_flag">
+
+
+    <ImageView
+            android:layout_weight="7"
+        android:layout_height="0dp"
+            android:layout_width="match_parent"
+
+            app:srcCompat="@drawable/template"
+            android:id="@+id/imageView5" />
+
+    <TextView
+
+        android:layout_weight="1"
+        android:layout_height="0dp"
+            android:text="@string/tittr_intro1"
+            android:layout_width="match_parent"
+
+            android:textSize="18dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:id="@+id/textView5" />
+    <TextView
+            android:text="@string/tittr_intro3"
+            android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+            android:textSize="18dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+ android:textColor="@android:color/white"
+            android:id="@+id/textView8" />
+
+    <TextView
+            android:text="@string/tittr_intro4"
+            android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+            android:textSize="18dp"
+            android:textColor="@android:color/white"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:id="@+id/textView9" />
+
+    <TextView
+            android:text="@string/tittr_intro5"
+            android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+            android:textSize="18dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:id="@+id/textView10" />
+
+    <TextView
+            android:text="@string/tittr_intro6"
+            android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+            android:textSize="18dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:id="@+id/textView11" />
+    <TextView
+            android:text="@string/tittr_intro2"
+            android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+            android:textSize="18dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:id="@+id/textView7" />
+</LinearLayout>

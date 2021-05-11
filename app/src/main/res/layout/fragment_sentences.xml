@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@drawable/bg_main" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="@+id/container" android:background="@color/black" android:layout_width="match_parent" android:layout_height="match_parent" android:alpha="0.6"/>
+
+    <GridView
+            android:id="@+id/gridview_sentence"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:columnWidth="90dp"
+            android:gravity="center"
+            android:horizontalSpacing="10dp"
+            android:numColumns="3"
+            android:stretchMode="columnWidth"
+            android:verticalSpacing="10dp"></GridView>
+
+
+</RelativeLayout>

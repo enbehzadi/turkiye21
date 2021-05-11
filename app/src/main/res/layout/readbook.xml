@@ -1,0 +1,59 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<LinearLayout xmlns:android = "http://schemas.android.com/apk/res/android"
+              xmlns:app = "http://schemas.android.com/apk/res-auto"
+              xmlns:tools = "http://schemas.android.com/tools"
+              android:layout_width = "match_parent"
+
+              android:layout_height = "match_parent"
+
+              android:layout_weight="10"
+                 android:weightSum="13"
+              android:orientation = "vertical">
+    <LinearLayout
+            android:gravity="top"
+            android:id="@+id/la_pg"
+            android:background="@color/red_flag"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:weightSum="6"
+            android:layout_height="0dp">
+
+        <TextView
+                android:textColor="@color/colorText"
+                android:id="@+id/tv_pg"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:text="TextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"/>
+
+       <!-- <EditText
+                android:background="@color/colorEditeText"
+                android:gravity="center"
+                android:hint="@string/hint_page"
+                android:textColor="@color/colorText"
+                android:id="@+id/et_pg"
+                android:layout_width="0dp"
+                android:layout_height="35dp"
+                android:inputType="number"
+                android:layout_weight="3"/>
+        <Button
+                android:layout_weight="1"
+                android:id="@+id/bt_pg"
+                android:layout_marginRight="5dp"
+                android:text="go"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>-->
+    </LinearLayout>
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+        android:layout_weight="12">
+    <com.pdfview.PDFView
+            android:id="@+id/activity_main_pdf_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+</LinearLayout>

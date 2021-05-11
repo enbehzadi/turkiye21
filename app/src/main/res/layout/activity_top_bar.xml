@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+<androidx.viewpager.widget.ViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@id/la"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toBottomOf="@+id/LA"
+
+        app:layout_constraintVertical_bias="0.0" />
+
+
+<LinearLayout
+
+        app:layout_constraintHorizontal_bias="0.0"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:id="@+id/la"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <com.gauravk.bubblenavigation.BubbleNavigationConstraintView
+            android:background="@color/red_flag"
+        android:id="@+id/top_navigation_constraint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        app:barrierDirection="left"
+
+        app:bnc_mode="inside"
+        app:chainUseRtl="false"
+        app:layout_constraintHorizontal_bias="0.0"
+
+        app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/view_pager"
+        app:layout_constraintVertical_bias="1.0">
+
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+                android:id="@+id/c_item_shop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:bt_colorActive="@color/green_active"
+                app:bt_colorInactive="@color/green_inactive"
+                app:bt_icon="@drawable/ic_shop"
+                app:bt_padding="12dp"
+                app:bt_shape="@drawable/transition_background_drawable_default"
+                app:bt_title="@string/shop"
+                app:bt_titlePadding="8dp" />
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/c_item_profile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:bt_colorActive="@color/purple_active"
+            app:bt_colorInactive="@color/purple_inactive"
+            app:bt_icon="@drawable/ic_playlist"
+            app:bt_padding="12dp"
+            app:bt_shape="@drawable/transition_background_drawable_default"
+            app:bt_title="@string/profile"
+            app:bt_titlePadding="8dp" />
+
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/c_item_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:bt_colorActive="@color/blue_active"
+            app:bt_colorInactive="@color/blue_inactive"
+            app:bt_icon="@drawable/ic_search"
+            app:bt_padding="12dp"
+            app:bt_shape="@drawable/transition_background_drawable_default"
+            app:bt_title="@string/search"
+            app:bt_titlePadding="8dp" />
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:id="@+id/c_item_other"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:bt_colorActive="@color/red_active"
+            app:bt_colorInactive="@color/red_inactive"
+            app:bt_icon="@drawable/ic_home"
+            app:bt_padding="12dp"
+            app:bt_shape="@drawable/transition_background_drawable_default"
+            app:bt_title="@string/home"
+            app:bt_titlePadding="8dp" />
+
+
+    </com.gauravk.bubblenavigation.BubbleNavigationConstraintView>
+</LinearLayout>
+    <LinearLayout
+
+            android:id="@+id/LA"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/grey_active"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toTopOf="@+id/view_pager"
+            app:layout_constraintEnd_toEndOf="parent"
+
+            >
+
+        <LinearLayout
+                android:background="@color/red_flag"
+                android:layout_height="50dp"
+                android:layout_width="match_parent"
+                android:gravity="right|center"
+                android:orientation="horizontal"
+                android:layout_gravity="right|center"
+                >
+
+            <TextView
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="@string/app_name"
+                    android:layout_marginRight="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="20dp"
+                    android:textStyle="bold"
+
+                    android:id="@+id/textView2" />
+            <ImageView
+
+                    android:layout_gravity="right|center"
+                    android:gravity="right|center"
+
+                    android:id="@+id/iv_toolbar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/icon_menu"
+                    android:layout_marginRight="@dimen/padd_10"
+                    />
+
+
+
+            <!--<androidx.appcompat.widget.Toolbar
+
+                    android:id="@+id/toolbar"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:layoutDirection="rtl"
+                    app:collapsedTitleGravity="right"
+                    app:expandedTitleGravity="right"
+                    android:background="@color/red_flag">-->
+
+<!--
+            </androidx.appcompat.widget.Toolbar>
+-->
+        </LinearLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

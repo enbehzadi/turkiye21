@@ -1,0 +1,8 @@
+com.pdfview.pdf
+attr assetName
+attr panEnabled
+attr quickScaleEnabled
+attr src
+attr tileBackgroundColor
+attr zoomEnabled
+styleable SubsamplingScaleImageView assetName panEnabled quickScaleEnabled src tileBackgroundColor zoomEnabled

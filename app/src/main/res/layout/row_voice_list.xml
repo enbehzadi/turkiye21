@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+
+            android:layout_width="match_parent"
+                  android:orientation="vertical"
+                  android:id="@+id/la_voices_list"
+
+
+
+        android:background="#FDFEFF"
+                  android:layout_height="wrap_content"
+                  android:layout_marginBottom="10dp"
+
+                  >
+        <TextView
+                android:layout_gravity="center"
+
+
+                android:layout_marginLeft="10dp"
+                android:textColor="#00BCD4"
+
+                android:gravity="left"
+                android:textSize="20dp"
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tv_name_voice_list"
+              />
+        <TextView
+
+                android:layout_gravity="center"
+                android:gravity="right"
+
+                android:textColor="#FF5722"
+                android:textSize="20dp"
+                android:text="TextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tv_numberpage_voice_list"
+                android:layout_marginRight="10dp"
+                />
+
+    </LinearLayout>
+
+

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/dialog_layout_alert"
+            android:layout_width="@dimen/popup_width"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center"
+            android:scrollbars="vertical"
+        android:layout_marginTop="20dp"
+            android:background="@drawable/rounded_white_bg">
+    <LinearLayout
+
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_gravity="right"
+            android:gravity="right"
+            android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/iv_dialog_alert_close"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+
+                android:layout_gravity="right"
+
+                app:srcCompat="@drawable/ic_close_gray_24dp" />
+    </LinearLayout>
+        <LinearLayout
+                android:layout_gravity="right"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+
+
+            <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/dialog_alert_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="ثبت نام"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:layout_marginBottom="10dp" />
+
+
+        </LinearLayout>
+
+        <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/dialog_alert_message"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginBottom="20dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+
+                android:scrollbars="vertical"
+
+                android:text="as" />
+
+
+    </LinearLayout>
+

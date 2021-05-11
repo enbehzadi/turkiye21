@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent"
+              android:layout_weight="12"
+              android:orientation="vertical"
+              android:background="@color/white"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+            android:padding="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_margin="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5"
+            android:weightSum="5"
+            android:orientation="vertical">
+
+        <TextView
+                android:layout_margin="10dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textColor="#101010"
+                android:textSize="18dp"
+                android:text="@string/ders_kitabi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/textView3"/>
+        <ImageView
+                android:id="@+id/iv_ders_kitabi"
+
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:src="@drawable/a1"
+                android:layout_weight="4"
+                android:layout_gravity="center"
+                />
+
+
+        <Button
+                android:id="@+id/bt_ders_kitabi"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/padd_10"
+                android:background="@drawable/btn_blue_selector"
+
+                android:orientation="horizontal"
+                android:clickable="true"
+                android:text="@string/read"
+
+
+                android:textColor="@color/white"
+                android:focusable="true"
+                android:layout_gravity="center|bottom"
+                android:gravity="center"
+                />
+    </LinearLayout>
+    <LinearLayout
+            android:padding="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_margin="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5"
+            android:weightSum="5"
+            android:orientation="vertical">
+        <TextView
+                android:text="@string/calisma_kitabi"
+
+                android:layout_margin="18dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textSize="18dp"
+                android:textColor="@color/black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+        />
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:src="@drawable/a12"
+                android:layout_weight="4"
+                android:layout_gravity="center"
+                android:id="@+id/iv_calisma_kitabi"
+        />
+        <Button
+                android:id="@+id/bt_calisma_kitabi"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/padd_10"
+                android:background="@drawable/btn_blue_selector"
+
+                android:orientation="horizontal"
+                android:clickable="true"
+                android:text="@string/read"
+
+
+                android:textColor="@color/white"
+                android:focusable="true"
+                android:layout_gravity="center|bottom"
+                android:gravity="center"
+                />
+
+    </LinearLayout>
+    </LinearLayout>
+

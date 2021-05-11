@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357409486623",
+    "project_id": "istabulibedoon",
+    "storage_bucket": "istabulibedoon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357409486623:android:7437e54dc445fb3127a22a",
+        "android_client_info": {
+          "package_name": "enbehzadi.turkce.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357409486623-knsm543dr3aqk7po86pg1djnq2vk3vls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQCScF5PrykeCSBDY6LGM0KDk06x1xK68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357409486623-knsm543dr3aqk7po86pg1djnq2vk3vls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

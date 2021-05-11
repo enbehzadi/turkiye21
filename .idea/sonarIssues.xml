@@ -1,0 +1,2554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/AndroidPdfViewer-master/AndroidPdfViewer-master/android-pdf-viewer/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/AndroidPdfViewer-master/AndroidPdfViewer-master/android-pdf-viewer/src/main/java/com/github/barteksc/pdfviewer/CacheManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/AndroidPdfViewer-master/AndroidPdfViewer-master/sample/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/AndroidPdfViewer-master/AndroidPdfViewer-master/sample/src/main/java/com/github/barteksc/sample/PDFViewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/AutoScrollViewPager-master/AutoScrollViewPager-master/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/AutoScrollViewPager-master/AutoScrollViewPager-master/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/AutoScrollViewPager-master/AutoScrollViewPager-master/library/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/ExpandableBottomBar-master/ExpandableBottomBar-master/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/ExpandableBottomBar-master/ExpandableBottomBar-master/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/ExpandableBottomBar-master/ExpandableBottomBar-master/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Intro-Slider-Splash-Android-App (1)/Intro Slider Splash Android App/app/src/main/java/com/javapapers/android/introslider/MainScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Intro-Slider-Splash-Android-App (1)/Intro Slider Splash Android App/app/src/main/java/com/javapapers/android/introslider/Splash_screen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Intro-Slider-Splash-Android-App (1)/Intro Slider Splash Android App/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Intro-Slider-Splash-Android-App (1)/Intro Slider Splash Android App/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationDrawer/NavigationDrawer/app/src/main/java/com/journaldev/navigationdrawer/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationDrawer/NavigationDrawer/app/src/main/res/layout/toolbar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationDrawer/NavigationDrawer/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationDrawer/NavigationDrawer/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/HorizontalNtbActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/b/m.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/b/ss.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/camera/CameraCallbacks.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/camera/CameraConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/camera/CameraError.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/camera/CameraPreview.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/camera/HiddenCameraService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/camera/HiddenCameraUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/camera/ImageTransmogrifier.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/camera/config/CameraFacing.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/camera/config/CameraImageFormat.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/camera/config/CameraResolution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/camera/config/CameraRotation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/libsuperuser/src/eu/chainfire/libsuperuser/Debug.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/m/NetworkMgr.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/m/TelephonyInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/m/commands.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/m/enigma.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/m/getdata.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/m/httpPost.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/m/myshareprefrence.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/ma/ProcessManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/ma/aa.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/s/bc.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/s/checkappsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/s/fc.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/s/m.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/s/main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/s/ss.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/aaa/s/t.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/library/behavior/NavigationTabBarBehavior.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/java/enbehzadi/turkce/myapplication/library/behavior/VerticalScrollingBehavior.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/res/layout/black_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/res/values/arrays.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/navigationtabbar/src/main/java/devlight/io/library/behavior/NavigationTabBarBehavior.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication/navigationtabbar/src/main/java/devlight/io/library/ntb/NavigationTabBar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication10/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication10/app/src/main/java/enbehzadi/turkce/myapplication/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication10/app/src/main/res/layout/activity_sighnin.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication10/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication11/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication11/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication11/app/src/main/java/enbehzadi/turkce/myapplication/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication11/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication12/aestheticdialogs/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication12/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication12/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication12/app/src/main/java/a1c22/adapter/Adapter_dictionary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication12/app/src/main/java/a1c22/bookActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication12/app/src/main/java/enbehzadi/turkce/a1c2/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication12/app/src/main/java/enbehzadi/turkce/a1c2/bookActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication12/app/src/main/java/enbehzadi/turkce/myapplication/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication12/app/src/main/res/values-night/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication12/app/src/main/res/values/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication12/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication12/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication12/local.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication13/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication13/app/src/main/java/turkce/a1c2/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication13/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication14/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication14/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication14/app/src/main/java/enbehzadi/turkce/myapplication/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication15/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication16/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication16/app/src/main/java/enbehzadi/turkce/myapplication/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication18/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/java/enbehzadi/turkce/a1c1/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/java/enbehzadi/turkce/a1c1/MainScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/java/enbehzadi/turkce/a1c1/Splash_screen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/java/enbehzadi/turkce/a1c1/WelcomeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/java/enbehzadi/turkce/a1c1/intro/PrefManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/java/enbehzadi/turkce/a1c1/intro/Splash_screen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/java/enbehzadi/turkce/a1c1/intro/WelcomeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/java/functions/functions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/res/drawable/home_background_oval.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/res/drawable/like_background_oval.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/res/drawable/list_background_oval.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/res/drawable/person_background_oval.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/res/layout/activity_welcome.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/res/layout/intro_screen1.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/res/layout/intro_screen3.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/app/src/main/res/values/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication19/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication2/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication2/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication2/app/src/main/res/drawable/default_background_oval.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication2/app/src/main/res/drawable/home_background_oval.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication2/app/src/main/res/drawable/like_background_oval.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication2/app/src/main/res/drawable/list_background_oval.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication2/app/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication2/bubblenavigation/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication3/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication3/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication3/app/src/main/java/istanbuli/a1c2/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication3/app/src/main/java/istanbuli/a1c2/behzadi/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication3/app/src/main/res/layout/layout/book.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication3/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication3/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication5/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication5/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication5/app/src/main/java/enbehzadi/turkce/myapplication/Post.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication5/app/src/main/java/enbehzadi/turkce/myapplication/RetrofitClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication6/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication8/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication8/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication8/app/src/main/java/enbehzadi/turkce/myapplication/APIService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication8/app/src/main/java/enbehzadi/turkce/myapplication/ApiUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication8/app/src/main/java/enbehzadi/turkce/myapplication/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication8/app/src/main/java/enbehzadi/turkce/myapplication/Post.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication8/app/src/main/java/enbehzadi/turkce/myapplication/RetrofitClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication8/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication8/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication8/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication9/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication9/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication9/app/src/main/java/enbehzadi/turkce/myapplication/signin/ChooserActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication9/app/src/main/java/enbehzadi/turkce/myapplication/signin/IdTokenActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication9/app/src/main/java/enbehzadi/turkce/myapplication/signin/RestApiActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication9/app/src/main/java/enbehzadi/turkce/myapplication/signin/ServerAuthCodeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication9/app/src/main/java/enbehzadi/turkce/myapplication/signin/SignInActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication9/app/src/main/java/enbehzadi/turkce/myapplication/signin/SignInActivityWithDrive.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication9/app/src/main/res/layout/activity_chooser.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication9/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication9/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication9/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/MyApplication9/app/src/main/res/values/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/NavigationTabStrip-master/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/NavigationTabStrip-master/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/NavigationTabStrip-master/navigationtabstrip/src/main/java/com/gigamole/navigationtabstrip/NavigationTabStrip.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/menudrawer/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/menudrawer/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/menudrawer/app/src/main/java/enbehzadi/turkce/menudrawer/SampleActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/menudrawer/app/src/main/java/enbehzadi/turkce/menudrawer/fragment/CenteredTextFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/menudrawer/app/src/main/java/enbehzadi/turkce/menudrawer/menu/SimpleItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/menudrawer/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/menudrawer/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/menudrawer/library/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NavigationTabStrip-master/menudrawer/library/src/main/java/com/yarolegovich/slidingrootnav/SlidingRootNavBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/duo-navigation-drawer-master/duo-navigation-drawer-master/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/duo-navigation-drawer-master/duo-navigation-drawer-master/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/google-services-master/google-services-master/android/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/google-services-master/google-services-master/android/signin/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/google-services-master/google-services-master/android/signin/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/material-intro-screen-master/material-intro-screen-master/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/material-intro-screen-master/material-intro-screen-master/material-intro-screen/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/AestheticDialogs/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/AestheticDialogs/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/Android-SDK-Payment3/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/Android-SDK-Payment3/app/src/main/java/com/zarinpal/ewallets/purchasesdk/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/Android-SDK-Payment3/purchase/src/main/java/com/zarinpal/ewallets/purchase/PaymentRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/AndroidPdfViewer/android-pdf-viewer/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/AndroidPdfViewer/android-pdf-viewer/src/main/java/com/github/barteksc/pdfviewer/CacheManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/AndroidPdfViewer/android-pdf-viewer/src/main/java/com/github/barteksc/pdfviewer/PDFView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/AndroidPdfViewer/android-pdf-viewer/src/main/java/com/github/barteksc/pdfviewer/scroll/DefaultScrollHandle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/AndroidPdfViewer/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/AndroidPdfViewer/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/AndroidPdfViewer/local.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/AndroidPdfViewer/sample/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/AndroidPdfViewer/sample/build/generated/ap_generated_sources/debug/out/com/github/barteksc/sample/PDFViewActivity_.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/AndroidPdfViewer/sample/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/AndroidPdfViewer/sample/src/main/java/com/github/barteksc/sample/PDFViewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/AndroidPdfViewer/sample/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/AppIntro/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/BottomNavigation/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/BottomNavigation/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/MaterialTabsAdavanced/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/MaterialTabsAdavanced/example/src/main/java/net/giancarlofusiello/materialtabslibrary/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/MaterialTabsAdavanced/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/MeowBottomNavigation/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/NavigationTabBar/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/NavigationTabBar/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/NavigationTabBar/app/src/main/res/layout/activity_horizontal_ntb.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/Pdf-Viewer/.idea/sonarIssues.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/Pdf-Viewer/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/Pdf-Viewer/app/src/androidTest/java/com/rajat/pdfviewer/ExampleInstrumentedTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/Pdf-Viewer/app/src/main/java/com/rajat/pdfviewer/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/Pdf-Viewer/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/Pdf-Viewer/pdfViewer/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/Pdf-Viewer/pdfViewer/src/main/java/com/rajat/pdfviewer/PdfRendererCore.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/Pdf-Viewer/pdfViewer/src/main/java/com/rajat/pdfviewer/PdfRendererView.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/Pdf-Viewer/pdfViewer/src/main/java/com/rajat/pdfviewer/PdfViewerActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/Pdf-Viewer/pdfViewer/src/main/res/layout/activity_pdf_viewer.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/SSCustomBottomNavigation/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/SSCustomBottomNavigation/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/SSCustomBottomNavigation/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/SearchWithRecyclerView/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/SearchWithRecyclerView/app/src/main/java/com/willkernel/app/searchwithrecycler/search/activity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/SearchWithRecyclerView/app/src/main/res/layout/card_row.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/SlidingRootNav/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/SlidingRootNav/sample/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/SlidingRootNav/sample/src/main/java/com/yarolegovich/slidingrootnav/sample/SampleActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/SnapTabLayout/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/SnapTabLayout/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/SocialLoginIntegrationAndroid/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/SocialLoginIntegrationAndroid/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/android-navigation-bar-view/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/android-navigation-bar-view/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/android-navigation-bar/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/bottom-bar_with-fragments/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/bottom-bar_with-fragments/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/bubble-navigation/app/src/main/java/com/gauravk/bubblebarsample/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/bubble-navigation/app/src/main/java/com/gauravk/bubblebarsample/TopBarActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/bubble-navigation/app/src/main/java/com/gauravk/bubblebarsample/fragment/ScreenSlidePageFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/bubble-navigation/app/src/main/res/layout/activity_top_bar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/bubble-navigation/bubblenavigation/src/main/java/com/gauravk/bubblenavigation/BubbleNavigationConstraintView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/bubble-navigation/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/coolMenu/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/coolMenu/app/src/main/java/com/foocoder/coolmenu/Fragment1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/coolMenu/app/src/main/java/com/foocoder/coolmenu/Fragment2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/coolMenu/app/src/main/java/com/foocoder/coolmenu/Fragment3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/coolMenu/app/src/main/java/com/foocoder/coolmenu/Fragment4.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/coolMenu/app/src/main/java/com/foocoder/coolmenu/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/coolMenu/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/coolMenu/coolmenu/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/coolMenu/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/curved-bottom-navigation/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/curved-bottom-navigation/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/firebase-login-demo-android/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/material-intro/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/material-intro/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/pdfview-android/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/pdfview-android/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/pdfview-android/sample-local/src/main/java/com/pdfview_sample/pdfview/readbook.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/pdfview-android/sample-local/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../peroject/pdfview-android/sample-network/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../IELTS14002/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PersianCalendar2/src/main/java/behzaditaghvim222/byagowi/persiancalendar/UpdateUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../PersianCalendar2/src/main/java/behzaditaghvim222/byagowi/persiancalendar/Utils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mybackup/25-11-96/triplay.git/app/src/main/java/com/example/aaa/ma/aa.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mybackup/25-11-96/triplay.git/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/MaterialTabsModule/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/aestheticdialogs/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/aestheticdialogs/src/main/java/com/thecode/aestheticdialogs/AestheticDialog.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/aestheticdialogs/src/main/java/com/thecode/aestheticdialogs/DialogStyle.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/aestheticdialogs/src/main/java/com/thecode/aestheticdialogs/DialogType.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/aestheticdialogs/src/main/java/com/thecode/aestheticdialogs/OnDialogClickListener.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/aestheticdialogs/src/main/res/layout/dialog_emoji.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/aestheticdialogs/src/main/res/layout/dialog_flat.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/aestheticdialogs/src/main/res/layout/dialog_flat_verify_sms.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/aestheticdialogs/src/main/res/layout/dialog_message_alert.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/aestheticdialogs/src/main/res/layout/dialog_register_gmail.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/aestheticdialogs/src/main/res/layout/dialog_sell_product.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/aestheticdialogs/src/main/res/values-en/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/aestheticdialogs/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/aestheticdialogs/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/android-pdf-viewer/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/android-pdf-viewer/src/main/java/com/github/barteksc/pdfviewer/CacheManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/android-pdf-viewer/src/main/java/com/github/barteksc/pdfviewer/scroll/DefaultScrollHandle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/credentials.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/google-services.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/proguard-rules.pro">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/assets/encrypt.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/Database.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/DownloadClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/SampleActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/adapter/Adapter_dictionary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/adapter/Adapter_sentences.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/behzadi/content/myshareprefrence.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/bookActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/books_sub/BookFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/books_sub/Books_Sub_Activity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/books_sub/GrammerFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/books_sub/PDFViewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/books_sub/SentenceModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/books_sub/SoundsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/books_sub/WordsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/books_sub/readbook.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/books_sub/readbook.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/books_sub/rebook.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/functions/functions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/grammer_lessons.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/intro/MainScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/intro/Splash_screen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/sentences/Activity_Main_Sentence_Sub.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/sentences/Fragment_Sentences_Words.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/speakTurkce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/tabmenu/TopBarActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/tabmenu/fragment/BooksFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/tabmenu/fragment/DictionaryFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/tabmenu/fragment/SentencesFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/tabmenu/fragment/ShopFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/istanbuli/a1c2/words_lesson_list.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/DataBaseHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/DownloadFileFromURL.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/Fragment_Sentences_Words.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/SampleActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/Sentence_Sub_Activity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/Sentence_Sub_Fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/SignInActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/adapter/Adapter_dictionary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/adapter/Adapter_estelahat.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/adapter/Adapter_sentences.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/adapter/Adapter_shop.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/adapter/ViewPagerAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/adapter/adapter_fragment_books.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/adapter/adapter_voices_list_lesson.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/adapter/adapter_words_list_lesson.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/adapter/books_item.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/behzadi/content/myshareprefrence.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/bookActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/books_sub/BookFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/books_sub/Books_Sub_Activity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/books_sub/DrawerItemCustomAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/books_sub/GrammerFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/books_sub/MyAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/books_sub/OnBackClickListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/books_sub/SentenceModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/books_sub/SoundsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/books_sub/Sub_BOoks_Adapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/books_sub/WordModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/books_sub/WordsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/books_sub/readbook.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/content/functions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/functions/CryptoHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/functions/bookActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/functions/functions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/gmailLogin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/gmailLogin/SignInActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/grammer_lesson_list.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/grammer_lessons.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/hiddensearchwithrecyclerviewsample/FragmentDefaultBehaviour.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/hiddensearchwithrecyclerviewsample/FragmentShowAtInit.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/hiddensearchwithrecyclerviewsample/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/hiddensearchwithrecyclerviewsample/SimpleAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/intro/HorizontalNtbActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/intro/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/intro/MainScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/intro/Splash_screen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/lessonlist.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/mainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/menu/CenteredTextFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/menu/DrawerAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/menu/SimpleItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/models/shop_item_model.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/readbook.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/sentences/Activity_Main_Sentence_Sub.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/sentences/Books_Sub_Activity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/sentences/Fragment_Sentences_Words.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/splashscreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/tabmenu/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/tabmenu/TopBarActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/tabmenu/adapters/ScreenSlidePagerAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/tabmenu/fragment/BooksFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/tabmenu/fragment/DictionaryFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/tabmenu/fragment/FragmentBooks.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/tabmenu/fragment/HomeFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/tabmenu/fragment/ScreenSlidePageFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/tabmenu/fragment/SentencesFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/tabmenu/fragment/ShopFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/tabmenu/fragment/fragmentBooks.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/voice_lessons.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/voiceslist.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c2/words_lesson_list.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c22/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c22/books_sub/Books_Sub_Activity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c22/books_sub/SoundsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c22/functions/functions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/a1c22/tabmenu/TopBarActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/istanbuli/behzadi/content/myshareprefrence.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/istanbuli/books_sub/Books_Sub_Activity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/turkce/istanbuli/tabmenu/TopBarActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_search.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/transition_background_drawable_shop.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout-v21/activity_top_bar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main_screen.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_sentence_sub_tab_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_sighnin.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_splash_screen.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_top_bar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/book.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/books_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/books_sub_tabbar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/drawer_sub_books.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_books.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_dictionary.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_sentence_sub.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_sentences.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_shop.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/gmaillogin.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/intro_screen1.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/intro_screen2.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/intro_screen3.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_navigation.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_navigation_words.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_option.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_tab.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/list_grammer_lesson.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/list_group.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/list_lessons.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/list_view_item_row_drwer_sub_books.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/list_voices_lesson.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/list_words_lesson.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/main_menu.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/menu_left_drawer.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/readbook.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/row_estelahat.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/row_grammer_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/row_item_shop.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/row_list_lesson.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/row_sentence_gridview.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/row_voice_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/row_words_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/menu/drawer_menu.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values-en/arrays.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values-en/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values-fa/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/arrays.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/ids.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/xml/network_security_config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/bubblenavigation/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/bubblenavigation/src/main/java/com/gauravk/bubblenavigation/BubbleToggleView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/bubblenavigation/src/main/res/drawable/rounded_rect.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/bubblenavigation/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/hiddensearchwithrecyclerview/src/main/res/layout/search_bar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/library/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/library/src/main/java/com/yarolegovich/slidingrootnav/SlideGravity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/library/src/main/java/com/yarolegovich/slidingrootnav/SlidingRootNavBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/library/src/main/java/com/yarolegovich/slidingrootnav/SlidingRootNavLayout.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/library/src/main/java/com/yarolegovich/slidingrootnav/util/ActionBarToggleAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/library/src/main/java/com/yarolegovich/slidingrootnav/util/DrawerListenerAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/library/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/liquidswipe/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/liquidswipe/build/generated/source/buildConfig/debug/com/jem/liquidswipe/BuildConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/liquidswipe/build/intermediates/library_manifest/debug/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/local.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/navigationtabbar/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pdfViewer/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pdfViewer/build/intermediates/library_manifest/debug/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pdf_viewer/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pdf_viewer/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pdf_viewer/src/main/java/com/github/barteksc/sample/PDFViewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pdfview-library/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/purchase/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/purchase/src/main/java/com/zarinpal/ewallets/purchase/HttpQueue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/purchase/src/main/java/com/zarinpal/ewallets/purchase/PaymentRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sdk/sources/android-28/android/widget/SimpleAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/JavaScrip-master (1)/JavaScrip-master/app/src/main/java/sys/almas/javascripttest/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/AndroidPdfViewermain/AndroidPdfViewerV1/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/AndroidPdfViewermain/AndroidPdfViewerV1/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/AndroidPdfViewermain/AndroidPdfViewerV1/library/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/AndroidPdfViewermain/AndroidPdfViewerV1/sample/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/AndroidPdfViewermain/AndroidPdfViewerV1/sample/src/main/java/com/github/barteksc/sample/PDFViewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/AndroidPdfViewermain/AndroidPdfViewerV1/sample/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/nordvpn2/nordvpn2/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/nordvpn2/nordvpn2/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/nordvpn2/nordvpn2/app/src/main/java/nordvpn/com/nordvpn/CustomAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/nordvpn2/nordvpn2/app/src/main/java/nordvpn/com/nordvpn/account.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/nordvpn2/nordvpn2/app/src/main/java/nordvpn/com/nordvpn/fav.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/nordvpn2/nordvpn2/app/src/main/java/nordvpn/com/nordvpn/main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/nordvpn2/nordvpn2/app/src/main/java/nordvpn/com/nordvpn/search.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/nordvpn2/nordvpn2/app/src/main/java/nordvpn/com/nordvpn/serverlist.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/nordvpn2/nordvpn2/app/src/main/java/nordvpn/com/nordvpn/splashscreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/nordvpn2/nordvpn2/app/src/main/res/layout/splash.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/psiphone/mybackup/25-11-96/triplay.git/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/psiphone/mybackup/25-11-96/triplay.git/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/psiphone/mybackup/25-11-96/triplay.git/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/psiphone/mybackup/25-11-96/triplay.git/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/psiphone/mybackup/25-11-96/triplay.git/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zip_andoid_project/app_am/app_am/psiphone/mybackup/25-11-96/triplay.git/library/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

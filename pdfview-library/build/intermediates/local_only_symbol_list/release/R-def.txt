@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+attr? assetName
+attr? panEnabled
+attr? quickScaleEnabled
+attr? src
+attr? tileBackgroundColor
+attr? zoomEnabled
+styleable SubsamplingScaleImageView src assetName panEnabled zoomEnabled quickScaleEnabled tileBackgroundColor

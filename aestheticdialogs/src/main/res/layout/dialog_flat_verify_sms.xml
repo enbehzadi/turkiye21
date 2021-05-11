@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    android:id="@+id/dialog_frame_flat"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@drawable/rounded_rect_blue">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/dialog_layout_flat"
+            android:layout_width="@dimen/popup_width"
+            android:minWidth="@dimen/popup_width"
+            android:layout_height="wrap_content"
+            android:minHeight="@dimen/popup_height"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center"
+            android:background="@drawable/rounded_white_bg">
+
+        <LinearLayout
+                android:weightSum="3"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+        <LinearLayout
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content">
+
+
+        </LinearLayout>
+        <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/dialog_title_flat"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="ثبت نام"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:layout_weight="1"
+                android:layout_marginBottom="10dp" />
+            <LinearLayout
+                    android:layout_weight="1"
+                    android:orientation="horizontal"
+                    android:layout_width="0dp"
+                    android:layout_gravity="right"
+                    android:gravity="right"
+                    android:layout_height="wrap_content">
+                <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/image_close_verify_sms"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+
+                        android:layout_gravity="right"
+
+                        app:srcCompat="@drawable/ic_close_gray_24dp"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/dialog_message_flat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:layout_marginBottom="20dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:maxLines="2"
+                android:ellipsize="end"
+                android:text="برای استفاده از قسمت های دیگر برنامه لطفا ثبت نام کنید." />
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center_horizontal"
+                android:layout_gravity="center">
+
+            <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/dialog_message_flatbg"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:maxLines="2"
+                    android:ellipsize="end"
+                    android:text="شماره موبایل  خود را وارد کنید:" />
+
+            <EditText
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="phone"
+                    android:ems="10"
+                    android:hint="091212345678"
+                    android:id="@+id/edt_phone_number" />
+
+
+            <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btn_action_flat_send_phoneNumber"
+                    android:layout_width="100dp"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/btn_blue_selector"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:clickable="true"
+                    android:text="ثبت"
+
+                    android:layout_marginRight="5dp"
+
+                    android:textColor="@color/md_white_1000"
+                    android:focusable="true" />
+
+
+            <ProgressBar
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:visibility="invisible"
+
+                    android:indeterminateDrawable="@android:drawable/progress_indeterminate_horizontal"
+
+                    android:indeterminate="true"
+                    style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                    android:id="@+id/prg_verify_sms" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+                android:id="@+id/dialog_lnr_verify_code"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center_horizontal"
+                android:layout_gravity="center"
+                android:visibility="invisible">
+
+            <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/dialog_message_flatb"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:maxLines="2"
+                    android:ellipsize="end"
+                    android:text="پیامکی حاوی کد فعال سازی برای شما ارسال شده است.کد ارسالی را وارد کنید:" />
+
+            <EditText
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:inputType="phone"
+                    android:ems="10"
+                    android:gravity="center_horizontal"
+                    android:ellipsize="start"
+                    android:paddingLeft="10dp"
+                    android:hint="کد فعال سازی"
+                    android:id="@+id/edt_code_verify" />
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btn_Send_verify_code"
+                    android:layout_width="100dp"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/btn_blue_selector"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:clickable="true"
+                    android:text="تایید"
+
+                    android:layout_marginRight="5dp"
+
+                    android:textColor="@color/md_white_1000"
+                    android:focusable="true" />
+            <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btn_verify_sms_edite_phone_number"
+                    android:layout_width="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/btn_red_pressed"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:clickable="true"
+                    android:text="تغییر شماره"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="@color/md_white_1000"
+                    android:focusable="true"/>
+
+        </LinearLayout>
+        </LinearLayout>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</FrameLayout>

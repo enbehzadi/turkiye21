@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:HTMLCode="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/words_item"
+      android:title="لغات" />
+<item android:id="@+id/grammer_item"
+      android:title="گرامر" >
+
+
+</item>
+<item android:id="@+id/voice_item"
+      android:title="صدا" />
+<item android:id="@+id/book_item"
+      android:title="کتاب" >
+    <!--<menu >-->
+        <!--<group android:id="@+id/group2" android:checkableBehavior="single">-->
+            <!--<item android:id="@+id/submenu1" android:title="کتاب درس" />-->
+            <!--<item android:id="@+id/submenu2" android:title="کتاب تمرین" />-->
+        <!--</group>-->
+    <!--</menu>-->
+</item>
+
+
+</menu>

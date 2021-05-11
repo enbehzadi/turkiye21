@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorRowWords">#FDFEFF</color>
+    <color name="colorPrimary">#ffebee</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorText">#474646</color>
+    <color name="colorBackgroundPdf">#EBDCA7</color>
+    <color name="colorBackgroundTitel">#E2CB3F</color>
+
+    <color name="colorHint">#CFCAC6</color>
+    <color name="colorEditeText">#F5F5E7</color>
+    <color name="pressed_item_foreground">#08000000</color>
+
+    <color name="screen1">#F44336</color>
+    <color name="screen2">#64DD17</color>
+    <color name="screen3">#9C27B0</color>
+
+
+    <array name="dot_on_page_active">
+        <item>#B71C1C</item>
+        <item>#8BC34A</item>
+        <item>#4A148C</item>
+
+    </array>
+
+    <array name="dot_on_page_not_active">
+        <item>#FF5252</item>
+        <item>#CCFF90</item>
+        <item>#E040FB</item>
+    </array>
+
+
+    <color name="red_flag">#2196F3</color>
+
+    <color name="red_active">#f44336</color>
+    <color name="purple_active">#9c27b0</color>
+    <color name="blue_active">#03a9f4</color>
+    <color name="green_active">#4caf50</color>
+    <color name="blue_grey_active">#607d8b</color>
+    <color name="yellow_active">#ffeb3b</color>
+    <color name="orange_active">#ff9800</color>
+    <color name="grey_active">#9e9e9e</color>
+
+    <color name="red_inactive">#e57373</color>
+    <color name="purple_inactive">#ba68c8</color>
+    <color name="blue_inactive">#64b5f6</color>
+    <color name="green_inactive">#81c784</color>
+    <color name="blue_grey_inactive">#90a4ae</color>
+    <color name="yellow_inactive">#fff176</color>
+    <color name="orange_inactive">#ffb74d</color>
+    <color name="gery_inactive">#e0e0e0</color>
+
+    <color name="default_inactive">#2578909C</color>
+
+    <color name="red_bg_light">#ffebee</color>
+    <color name="purple_bg_light">#f3e5f5</color>
+    <color name="blue_bg_light">#e3f2fd</color>
+    <color name="green_bg_light">#e8f5e9</color>
+    <color name="blue_grey_bg_light">#eceff1</color>
+    <color name="yellow_bg_light">#fffde7</color>
+    <color name="orange_bg_light">#fff3e0</color>
+    <color name="grey_bg_light">#fafafa</color>
+
+    <color name="white">#ffffff</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#757575</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="browser_actions_text_color">#de000000</color>
+    <color name="blue_grey_700">#455A64</color>
+
+</resources>

@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\project_run\turkiye\pdfview-library\src\main\AndroidManifest.xml:1:1-98
+INJECTED from D:\Android\project_run\turkiye\pdfview-library\src\main\AndroidManifest.xml:1:1-98
+INJECTED from D:\Android\project_run\turkiye\pdfview-library\src\main\AndroidManifest.xml:1:1-98
+	package
+		ADDED from D:\Android\project_run\turkiye\pdfview-library\src\main\AndroidManifest.xml:1:70-95
+		INJECTED from D:\Android\project_run\turkiye\pdfview-library\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\project_run\turkiye\pdfview-library\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\project_run\turkiye\pdfview-library\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from D:\Android\project_run\turkiye\pdfview-library\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android\project_run\turkiye\pdfview-library\src\main\AndroidManifest.xml
+INJECTED from D:\Android\project_run\turkiye\pdfview-library\src\main\AndroidManifest.xml
+INJECTED from D:\Android\project_run\turkiye\pdfview-library\src\main\AndroidManifest.xml
+INJECTED from D:\Android\project_run\turkiye\pdfview-library\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android\project_run\turkiye\pdfview-library\src\main\AndroidManifest.xml
+		ADDED from D:\Android\project_run\turkiye\pdfview-library\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\project_run\turkiye\pdfview-library\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\project_run\turkiye\pdfview-library\src\main\AndroidManifest.xml
+		ADDED from D:\Android\project_run\turkiye\pdfview-library\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\project_run\turkiye\pdfview-library\src\main\AndroidManifest.xml

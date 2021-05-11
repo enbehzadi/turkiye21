@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.markushi:android-ui:1.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/63c319c0dbf0d01ce3bddbc2aea0f4f0/jetified-android-ui-1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/63c319c0dbf0d01ce3bddbc2aea0f4f0/jetified-android-ui-1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/63c319c0dbf0d01ce3bddbc2aea0f4f0/jetified-android-ui-1.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.markushi/android-ui/1.2/e1b8f4b8cb3b1a3020df574d3bc7c0ce3fd05169/android-ui-1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.markushi/android-ui/1.2/a79ba30f86194292b41a9555fe52a0339d7f5949/android-ui-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

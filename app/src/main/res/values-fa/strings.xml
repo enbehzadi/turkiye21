@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">استانبولی بدوون</string>
+    <string name="tomer_titele"> ویژه داوطلبین تومر </string>
+    <string name="intro_2"> دیکشنری به سه زبان ترکی انگلیسی فارسی
+    \n
+        آموزش به زبان فارسی و انگلیسی همزمان
+    </string>
+
+    <string name="details">جزییات :</string>
+    <string name="details_min">گرامر تمام دروس \n لغات تمام دروس \n صداهای تمام دروس \n کتاب pdf درس فعال \n کتاب pdf تمرین فعال \n
+    </string>
+    <string name="register_alarm_last">شما ثبت نام کرده اید</string>
+    <string name="product_name"> نام محصول : </string>
+    <string name="price_main">200</string>
+    <string name="price_vahed">تومان</string>
+    <string name="intro_3"> اصطلاحات و کلمات ضروری</string>
+    <string name="download">دانلود</string>
+    <string name="page">صفحه</string>
+    <string name="lesson">درس</string>
+    <string name="read">خواندن</string>
+    <string name="ders_kitabi">کتاب درس</string>
+    <string name="calisma_kitabi">کتاب تمرین</string>
+    <string name="price">قیمت</string>
+    <string name="name">نام</string>
+    <string name="register">ثبت نام</string>
+    <string name="register_text">شما ثبت نام کرده اید</string>
+    <string name="Download_error">خطا در دانلود فایل و دسترسی به اینترنت</string>
+    <string name="Download_Finish">با موفقیت دانلود شد</string>
+    <string name="hint_page">page</string>
+    <string name="buy">خرید</string>
+    <string name="Alphabet">حروف الفبا</string>
+    <string name="download_app">دانلود برنامه</string>
+    <string name="link_download_google_play">Application Link : https://play.google.com/store/apps/details?id=</string>
+    <string name="link_download_caffe_bazaar">Application Link : https://www.cafebazaar.ir/app/?id=</string>
+    <string-array name="lng_list">
+        <item>ENGLISH</item>
+        <item>فارسی</item>
+
+
+    </string-array>
+
+    <string name="download_msg">در حال دانلود فایل</string>
+    <string name="saite">http://istanbulibedoon.ir</string>
+
+    <string name="skip">پریدن </string>
+    <string name="next">بعدی </string>
+    <string name="previos">قبلی  </string>
+    <string name="start">شروع</string>
+
+    <string name="home">کتابخانه</string>
+    <string name="search">دیکشنری</string>
+    <string name="profile">اصطلاحات</string>
+
+    <string name="shop">فروشگاه</string>
+
+
+    <string name="account_balance">نام کاربری</string>
+
+
+
+
+    <string name="get_data_server">در حال بروزرسانی... </string>
+    <string name="error_get_data_server">خطا در بروزرسانی </string>
+    <string name="tittr_intro1">آموزش کتابهای Istanbul Yabanci</string>
+
+    <string name="tittr_intro2">ویژه متقاضیان تومر </string>
+    <string name="tittr_intro3">گرامر تمامی درسها  </string>
+    <string name="tittr_intro4">لغات با ترجمه تمامی درسها </string>
+    <string name="tittr_intro5">صداهای تمامی درسها </string>
+    <string name="tittr_intro6">به همراه کتاب دانش اموز و کتاب کار </string>
+    <string name="review">review</string>
+
+    <string name="resource_title">منابع</string>
+    <string name="resource_message">
+    منابع کتابها:n\
+    کتاب istanbul yabanci A1\n
+    کتاب istanbul yabanci A2\n
+    کتاب istanbul yabanci B1\n
+    کتاب istanbul yabanci B2\n
+    کتاب istanbul yabanci C1\n
+    کتاب istanbul yabanci C1+\n
+   منابع گیت هاب:n\
+https://github.com/gabriel-TheCode/AestheticDialogs \n
+https://github.com/gauravk95/bubble-navigation \n
+https://github.com/Dmitry-Borodin/pdfview-android  \n
+https://github.com/itext/itextpdf/releases \n
+https://github.com/google/volley \n
+    </string>
+
+
+    <string name="serch_dictionary_hint">enter search word...
+</string>
+    <string name="register_succsefull"> Registration completed successfully</string>
+    <string name="hi"> hi</string>
+    <string name="dear"> Dear</string>
+    <string name="alarm"> alarm</string>
+    <string name="Error"> Error</string>
+    <string name="You_bought_this_product"> این محصول را خریده اید</string>
+
+    <string name="register_alarm"> You must register to access this section</string>
+    <string name="persian_active_grammer"> Sorry.This section is currently only active for Persian speakers.\n If you know Persian, you can use it
+    </string>
+
+    <string name="persian_active_shop"> Sorry, this section is currently available for \n purchase for Persian speakers. \n If you are Persian speaking, you can buy.
+    </string>
+    <string name="aboutme_title">About</string>
+    <string name="aboutme_message">Developer:Mojtaba Behzadi \n
+    Version :1.0.0 \n
+        Dear user thank you for choosing this application.\n
+        please if you have any ideas on improving the app \n
+        or you see any problems in this.just let me know \n
+        and contact me by email \n
+        enbehzadi@gmail.com \n
+         ©2021 mojtaba behzadi All Rights Reserved
+    </string>
+    <string name="privacy_title">privacy policy </string>
+    <string name="privacy_message">
+Mojtaba Behzadi-asl built the "istanbuli_bedoon" app . \n Please read this Privacy Policy before using our services because it will tell you how we collect, store, use and disclose your personal information when providing these services to you.\n\n
+ 
+Information collection and use \n
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request is retained on your device and is not collected by me in any way The app does use third party services that may collect information used to identify you..
+ \n\n
+Link to privacy policy of third party service providers used by the app \n
+·        Google Play Services \n
+·        Firebase Analytics \n
+ \n\n
+Log Data \n
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+ \n\n
+Security\n
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+ \n\n
+Links to other sites \n
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services
+ \n\n
+Information we use but never collect \n
+In some of our service, we may need to access those datas or features to provide functions, but we never collect or store those informations.\n
+1.     Read External Storage \n
+2.     Write External Storage \n
+ \n\n
+Physical damages \n
+this app is safe and we test it before share it between users but there is always possibilities so there is no warranty if your device get physical damages after using this app.
+ \n\n
+Contact us \n
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.\n\n
+enbehzadi@gmail.com \n
+    </string>
+</resources>

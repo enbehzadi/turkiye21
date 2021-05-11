@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="red_wine">
+        <item>#ff670729</item>
+        <item>#ff7a0c2d</item>
+        <item>#ff96092d</item>
+        <item>#ffa10a37</item>
+        <item>#ffbf013b</item>
+    </string-array>
+
+    <string-array name="polluted_waves">
+        <item>#394948</item>
+        <item>#5a7874</item>
+        <item>#499092</item>
+        <item>#43abae</item>
+        <item>#6ecfd2</item>
+    </string-array>
+
+    <string-array name="medical_express">
+        <item>#a3a3a3</item>
+        <item>#bbbbbb</item>
+        <item>#cccccc</item>
+        <item>#dddddd</item>
+        <item>#eeeeee</item>
+    </string-array>
+
+    <string-array name="vertical_ntb">
+        <item>#df5a55</item>
+        <item>#f9bb72</item>
+        <item>#76afcf</item>
+        <item>#dd6495</item>
+        <item>#72d3b4</item>
+        <item>#563d91</item>
+        <item>#56342e</item>
+        <item>#8c9f58</item>
+    </string-array>
+    <string-array name="ld_activityScreenTitles">
+        <item>ثبت نام / ورود</item>
+        <item>بروزرسانی</item>
+        <item>اشتراک گزاری برنامه</item>
+        <item> نظرات و پیشنهادات</item>
+        <item>منابع</item>
+        <item>درباره ما</item>
+        <item>privacy policy</item>
+        <item>خروج</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/ic_account_outline_grey600_24dp</item>
+        <item>@drawable/ic_update_24</item>
+        <item>@drawable/ic_share_24</item>
+        <item>@drawable/ic_email_outline_grey600_24dp</item>
+        <item>@drawable/ic_resource_36</item>
+        <item>@drawable/ic_aboute_36</item>
+        <item>@drawable/ic_privacy_48</item>
+        <item>@drawable/ic_logout_grey600_24dp</item>
+        <!--<item>@drawable/ic_email_outline_grey600_24dp</item>
+        <item>@drawable/ic_email_outline_grey600_24dp</item>
+        <item>@drawable/ic_logout_grey600_24dp</item>-->
+    </array>
+
+    <string-array name="arraay_tab_sub_books">
+
+        <item>گرامر</item>
+        <item>صدا</item>
+        <item>لغات</item>
+        <item>کتاب</item>
+
+    </string-array>
+
+
+
+    <array name="list">
+        <item>@drawable/ic_study</item>
+        <item>@drawable/ic_time</item>
+        <item>@drawable/ic_bank</item>
+
+        <item>@drawable/ic_health</item>
+        <item>@drawable/ic_action</item>
+        <item>@drawable/ic_shopping</item>
+
+        <item>@drawable/ic_nature</item>
+        <item>@drawable/ic_restaurent</item>
+        <item>@drawable/ic_parten</item>
+
+        <item>@drawable/ic_adj</item>
+        <item>@drawable/ic_holiday</item>
+        <item>@drawable/ic_food</item>
+
+        <item>@drawable/ic_clothing</item>
+        <item>@drawable/ic_tran</item>
+        <item>@drawable/ic_body</item>
+
+        <item>@drawable/ic_weather</item>
+        <item>@drawable/ic_tech</item>
+        <item>@drawable/ic_color</item>
+        <item>@drawable/ic_number</item>
+    </array>
+
+
+</resources>

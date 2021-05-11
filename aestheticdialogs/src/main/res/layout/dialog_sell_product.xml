@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    android:id="@+id/dialog_frame_flat"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@drawable/rounded_rect_blue">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/dialog_layout_sell"
+
+
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/popup_height_sell"
+            android:minWidth="@dimen/popup_width_sell"
+
+            android:minHeight="@dimen/popup_height_sell"
+
+
+            android:orientation="vertical"
+            android:gravity="center_horizontal|clip_horizontal"
+            android:layout_gravity="right"
+            android:background="@drawable/rounded_white_bg">
+
+        <LinearLayout
+                android:weightSum="3"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            <LinearLayout
+                    android:layout_weight="1"
+                    android:orientation="horizontal"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content">
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                    android:layout_weight="2"
+                    android:orientation="horizontal"
+                    android:layout_width="0dp"
+                    android:layout_gravity="right"
+                    android:gravity="right"
+                    android:layout_height="wrap_content">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/image_close_sell"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+
+                        android:layout_gravity="right"
+
+                        app:srcCompat="@drawable/ic_close_gray_24dp" />
+            </LinearLayout>
+        </LinearLayout>
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/dialog_title_buy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/title_buy"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:layout_marginBottom="10dp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/dialog_sell_titele_product"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_marginBottom="20dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:maxLines="2"
+                android:ellipsize="end"
+                android:text="نام محصول :A2" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/dialog_sell_price_product"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:layout_marginBottom="20dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:maxLines="2"
+                android:ellipsize="end"
+                android:text="قیمت محصول:10000" />
+
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+            <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btn_sell"
+                    android:layout_width="100dp"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/btn_blue_selector"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:clickable="true"
+                    android:text="@string/buy"
+
+                    android:layout_marginRight="5dp"
+
+                    android:textColor="@color/md_white_1000"
+                    android:focusable="true" />
+
+
+        </LinearLayout>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</FrameLayout>

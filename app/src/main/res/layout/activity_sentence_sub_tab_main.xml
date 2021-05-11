@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+        <androidx.appcompat.widget.Toolbar
+                android:layoutDirection="rtl"
+
+                android:id="@+id/toolbar"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:background="@color/blue_inactive" >
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                android:gravity="center"
+                    android:text="tile"
+                    android:textColor="@color/browser_actions_text_color"
+                    android:textSize="20dp"
+                    android:id="@+id/tv_title_sentences_sub"
+                >
+
+            </TextView>
+        </androidx.appcompat.widget.Toolbar>
+
+    <com.google.android.material.tabs.TabLayout
+            android:background="@color/blue_bg_light"
+            android:id="@+id/tablayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    <androidx.viewpager.widget.ViewPager
+            android:id="@+id/pager"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+</LinearLayout>
+
+

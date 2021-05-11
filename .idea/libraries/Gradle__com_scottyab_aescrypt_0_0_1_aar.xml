@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.scottyab:aescrypt:0.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/897b449b8c097638de10c0ce767270d6/jetified-aescrypt-0.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f3b4e4bd171c0a30c8e6c3757c1b870f/jetified-aescrypt-0.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f3b4e4bd171c0a30c8e6c3757c1b870f/jetified-aescrypt-0.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f3b4e4bd171c0a30c8e6c3757c1b870f/jetified-aescrypt-0.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.scottyab/aescrypt/0.0.1/d9a862cf6dcfb27c0fd2922b8d3ecf8dd772e0d6/aescrypt-0.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.scottyab/aescrypt/0.0.1/2f504dc749c5adc64c118d0ccef57c184dfa171f/aescrypt-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
