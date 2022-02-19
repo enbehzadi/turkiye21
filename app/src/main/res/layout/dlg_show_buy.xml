@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+android:background="@color/orange_bg_light"
+        >
+
+    <TextView
+            android:fontFamily="@font/byekan"
+
+            android:id="@+id/tv_title_buy"
+            android:text="TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="42dp"
+            android:textColor="@color/red_connectify"
+            android:layout_gravity="center" />
+
+    <TextView
+            android:fontFamily="@font/byekan"
+
+            android:text="@string/details_min"
+            android:layout_marginTop="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center|top"
+            android:textColor="@color/orange_active"
+            android:id="@+id/tv_detailes" />
+    <Button
+            android:fontFamily="@font/byekan"
+
+            android:layout_marginTop="30dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_blue_selector"
+                android:layout_marginBottom="5dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginLeft="15dp"
+                android:orientation="horizontal"
+                android:clickable="true"
+
+
+
+                android:textColor="@color/md_white_1000"
+                android:focusable="true"
+                android:layout_gravity="center"
+                android:gravity="center"
+
+
+            android:id="@+id/dlg_buy_btn1"
+
+            android:text="خرید یا بازیابی از کافه بازار"
+            android:textSize="17dp"
+
+            />
+
+
+
+
+</LinearLayout>
